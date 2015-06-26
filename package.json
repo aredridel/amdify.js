@@ -1,5 +1,5 @@
 {
-  "name": "amdify",
+  "name": "@aredridel/amdify",
   "version": "0.0.26",
   "description": "Amdify converts your node.js code into browser-compatible code. For example",
   "main": "./lib/index.js",
